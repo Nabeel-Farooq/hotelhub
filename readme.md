@@ -42,7 +42,7 @@ HotelHub is a comprehensive hotel management system developed using Django, a hi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/immodded/hotelhub.git
+   git clone https://github.com/Nabeel-Farooq/hotelhub
    ```
 2. setup:
    ```
